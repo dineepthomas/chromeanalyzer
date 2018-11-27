@@ -1,7 +1,6 @@
 """
-@author:      dthomas
-@license:      GNU General Public License 2.0 or later
-
+@author:      dthomas 
+@license:     GNU General Public License 2.0 or later
 """
 
 import volatility.plugins.chromehistory as chrome
